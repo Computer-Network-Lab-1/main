@@ -1,0 +1,12 @@
+[submodule "chrome-extension"]
+	path = chrome-extension
+	url = https://github.com/Computer-Network-Lab-1/chrome-extension.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Computer-Network-Lab-1/server.git
+[submodule "color-extractor"]
+	path = color-extractor
+	url = https://github.com/Computer-Network-Lab-1/color-extractor.git
+[submodule "500px-crawler"]
+	path = 500px-crawler
+	url = https://github.com/Computer-Network-Lab-1/500px-crawler.git
