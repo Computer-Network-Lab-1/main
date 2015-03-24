@@ -1,15 +1,15 @@
 [submodule "chrome-extension"]
 	path = chrome-extension
-	url = https://github.com/Computer-Network-Lab-1/chrome-extension.git
+	url = git@github.com:Computer-Network-Lab-1/chrome-extension.git
 [submodule "server"]
 	path = server
-	url = https://github.com/Computer-Network-Lab-1/server.git
+	url = git@github.com:Computer-Network-Lab-1/server.git
 [submodule "color-extractor"]
 	path = color-extractor
-	url = https://github.com/Computer-Network-Lab-1/color-extractor.git
+	url = git@github.com:Computer-Network-Lab-1/color-extractor.git
 [submodule "500px-crawler"]
 	path = 500px-crawler
-	url = https://github.com/Computer-Network-Lab-1/500px-crawler.git
+	url = git@github.com:Computer-Network-Lab-1/500px-crawler.git
 [submodule "OS-X-Client"]
 	path = OS-X-Client
 	url = git@github.com:Computer-Network-Lab-1/OS-X-Client.git
