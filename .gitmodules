@@ -10,3 +10,6 @@
 [submodule "500px-crawler"]
 	path = 500px-crawler
 	url = https://github.com/Computer-Network-Lab-1/500px-crawler.git
+[submodule "OS-X-Client"]
+	path = OS-X-Client
+	url = git@github.com:Computer-Network-Lab-1/OS-X-Client.git
